@@ -1,0 +1,5 @@
+*.pof
+*.txt
+.DS_Store
+__pycache__/
+Public/__pycache__/
